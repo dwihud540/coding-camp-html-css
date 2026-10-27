@@ -1,1 +1,1 @@
-# coding-camp-html-css
+Ini adalah mini project dari Coding Camp RevoU Software Engineer
